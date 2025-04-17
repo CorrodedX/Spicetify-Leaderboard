@@ -1,0 +1,2 @@
+# Spicetify-Leaderboard
+Spicetify Leaderboard
