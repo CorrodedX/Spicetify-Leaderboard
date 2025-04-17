@@ -1,0 +1,10 @@
+{
+  "name": "Leaderboard Game",
+  "description": "A competitive leaderboard game for Spotify",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "authors": [
+    { "name": "YourName", "url": "https://github.com/YourUsername" }
+  ],
+  "tags": ["game", "leaderboard", "interactive"]
+}
