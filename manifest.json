@@ -1,10 +1,12 @@
 {
   "name": "Leaderboard Game",
-  "description": "A competitive leaderboard game for Spotify",
+  "description": "Track friends' Spotify listening stats competitively",
   "preview": "preview.png",
   "readme": "README.md",
   "authors": [
-    { "name": "YourName", "url": "https://github.com/YourUsername" }
+    { "name": "CorrodedX", "url": "https://github.com/CorrodedX" }
   ],
-  "tags": ["game", "leaderboard", "interactive"]
+  "tags": ["game", "leaderboard", "social"],
+  "branch": "main", // Required if not using 'master'
+  "main": "your-game.js"
 }
